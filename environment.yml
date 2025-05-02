@@ -1,0 +1,22 @@
+name: resume-analyzer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip:
+      - altair==5.5.0
+      - streamlit==1.44.1
+      - transformers==4.51.3
+      - sentence-transformers==4.1.0
+      - pdfplumber==0.11.6
+      - spacy==3.8.5
+      - wordcloud==1.9.4
+      - PyMuPDF==1.22.5
+prefix: C:\Users\damol\anaconda3\envs\resume-analyzer

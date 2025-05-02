@@ -1,0 +1,9 @@
+[theme]
+base = "dark"
+primaryColor = "#C77DFF"  # Soft neon purple - vibrant yet not overwhelming
+backgroundColor = "#1E1E2F"  # Deep twilight blue for a modern feel
+secondaryBackgroundColor = "#2A2A40"  # Slightly lighter for content cards
+textColor = "#E0E0E0"  # Light gray for good contrast without harshness
+linkColor = "#F15BB5"  # Energetic pink for visual pop
+codeBackgroundColor = "#2F2F3F"  # Muted deep gray for comfort while reading code
+
